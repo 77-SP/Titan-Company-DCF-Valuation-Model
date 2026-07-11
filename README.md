@@ -8,8 +8,11 @@ The workbook was developed by linking multiple worksheets to create a structured
 Key Features: 
 
 Historical financial statement analysis
+
 Revenue and EBIT forecasting
+
 FCFF calculation
+
 WACC estimation
 Terminal value calculation
 Enterprise value estimation
