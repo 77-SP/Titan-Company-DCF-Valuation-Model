@@ -55,7 +55,7 @@ The model estimates the intrinsic value of the company by forecasting future Fre
 | **Titan Company Ltd.-DCF Valuation Model - Final.xlsx**|https://github.com/77-SP/Titan-Company-DCF-Valuation-Model/blob/main/screenshots/TITAN%20-%20Valuation.png - Complete Excel DCF valuation model |
 | **TITAN Dashboard.pdf** |https://github.com/77-SP/Titan-Company-DCF-Valuation-Model/blob/main/screenshots/TITAN%20-%20Dashboard.png  - PDF preview of dashboard |
 | **Sensitivity Analysis**|https://github.com/77-SP/Titan-Company-DCF-Valuation-Model/blob/main/screenshots/Sensitivity%20Analysis.png - Sensitivity Analysis of Company
-| **screenshots/** | Images of key worksheets |
+| **screenshots/** | Images of key worksheets - All of the above files are in the screenshot folder |
 
 ---
 
