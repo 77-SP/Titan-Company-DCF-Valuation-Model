@@ -68,3 +68,9 @@ Download the Excel workbook and open it using Microsoft Excel for the best exper
 ## Disclaimer
 
 This project was developed independently for educational purposes to strengthen practical financial modeling and valuation skills.
+
+---
+
+## Connect
+
+- LinkedIn: [Samya Patel](https://www.linkedin.com/in/samyapatel77/)
