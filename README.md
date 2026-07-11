@@ -52,7 +52,7 @@ The model estimates the intrinsic value of the company by forecasting future Fre
 
 | File | Description |
 |------|-------------|
-| Titan_Company_DCF_Valuation_Model_Samya_Patel.xlsx|Complete Excel DCF valuation model |
+| Titan_Company_DCF_Valuation_Model_Samya_Patel.xlsx|Complete Excel DCF valuation model |https://d.docs.live.net/1F9F7BB8D7D23465/Desktop/Titan%20Company%20Ltd.-DCF%20Valuation%20Model%20-%20Final.xlsx
 | Dashboard_Preview.pdf | PDF preview of dashboard |
 | screenshots | Images of key worksheets |
 
